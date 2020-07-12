@@ -1,4 +1,6 @@
+<div align="center">
 ![Kishore Johnsan](https://github.com/KishoreJohnsan/KishoreJohnsan/blob/master/logo.svg)
+</div>
 
 <p align="center">
 A Web Developer/Designer.<br>
