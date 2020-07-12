@@ -1,5 +1,5 @@
 <div align="center">
-![Kishore Johnsan](https://github.com/KishoreJohnsan/KishoreJohnsan/blob/master/logo.svg)
+<img src="https://github.com/KishoreJohnsan/KishoreJohnsan/blob/master/logo.svg">
 </div>
 
 <p align="center">
