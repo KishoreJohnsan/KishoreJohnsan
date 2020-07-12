@@ -1,4 +1,4 @@
-![Kishore Johnsan](https://github.com/blueset/blueset/raw/d0c3ad5f989bceadb6e5e1f60cb80927f7bdd740/EanaHandwritingStrokedPadded.svg)
+![Kishore Johnsan](https://github.com/KishoreJohnsan/KishoreJohnsan/blob/master/logo.svg)
 
 <p align="center">
 A Web Developer/Designer.<br>
